@@ -10,3 +10,10 @@ class FunsionG3:
 
     # Estudiante 2:
         # Desarrollar una función que reciba una cadena de texto y determine si está vacía o no.
+
+    def esta_vacia(cadena):
+        
+        if len(cadena) == 0:
+            return True
+        else:
+            return False
