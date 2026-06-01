@@ -11,7 +11,7 @@ class FunsionG4:
 
 
 
-    # Estudiante 2:
+    # Estudiante 2:Yoseph Cortez
     # Desarrollar una función que reciba una lista y retorne el valor mínimo.
 
 
@@ -21,5 +21,4 @@ class FunsionG4:
             return None
             
         return min(lista)
-
 
