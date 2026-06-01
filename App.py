@@ -32,3 +32,24 @@ G4 = FunsionG4()
 
 numeros = [10, 20, 30, 40]
 print(G4.contar_elementos(numeros))
+
+# Funsion 5
+
+G5 = FunsionG5()
+numeros = [10, 20, 30, 40]
+
+print(G5.valor_maximo(numeros))
+
+# Funsion 6
+
+G6 = FunsionG6()
+lista = [-5, 0, 3, -2, 8]
+
+print(G6.numeros_negativos(lista))
+
+
+# Funsion 7
+
+G7 = FunsionG7()
+
+print(G7.convertir_mayusculas("hola mundo"))
