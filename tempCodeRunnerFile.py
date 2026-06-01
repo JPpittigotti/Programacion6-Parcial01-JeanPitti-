@@ -1,13 +1,6 @@
-from FunsionG1 import FunsionG1
-# from FunsionG2 import FunsionG2
+from FunsionG2 import FunsionG2
 # from FunsionG3 import FunsionG3
 # from FunsionG4 import FunsionG4
 # from FunsionG5 import FunsionG5
 # from FunsionG6 import FunsionG6
 # from FunsionG7 import FunsionG7
-
-# Funsion1
-G1 = FunsionG1()
-
-print(G1.parOrImpar(6))
-print(G1.parOrImpar(5))
