@@ -3,7 +3,7 @@ class FunsionG1:
     def __init__(self):
         pass
 
-    # Estudiante 1: [Aquí su nombre y cedula]
+    # Estudiante 1: [Jean Pitti 8-1005-171]
         # Desarrollar una función que reciba un número entero y determine si es par o impar.
 
     def parOrImpar(self, x:int):
