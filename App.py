@@ -1,7 +1,7 @@
 from FunsionG1 import FunsionG1
 from FunsionG2 import FunsionG2
 from FunsionG3 import FunsionG3
-# from FunsionG4 import FunsionG4
+from FunsionG4 import FunsionG4
 # from FunsionG5 import FunsionG5
 # from FunsionG6 import FunsionG6
 # from FunsionG7 import FunsionG7
@@ -25,3 +25,10 @@ G3 = FunsionG3()
 palabra = "Patata"
 
 print(G3.contar_caracteres(palabra))
+
+# Funsion 4
+
+G4 = FunsionG4()
+
+numeros = [10, 20, 30, 40]
+print(G4.contar_elementos(numeros))
