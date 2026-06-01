@@ -12,5 +12,14 @@ class FunsionG1:
         else:
             return f"{x} es impar"
 
-    # Estudiante 2: [Aquí su nombre y cedula]   
+    # Estudiante 2: [Yoseph Cortez 7-714-2261]   
         # Desarrollar una función que reciba dos números y retorne el mayor de ellos.
+        
+    def obtener_mayor(num1, num2):
+        
+        if num1 > num2:
+            return num1
+        else:
+            
+            return num2
+
