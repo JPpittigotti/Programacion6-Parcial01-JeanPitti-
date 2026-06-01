@@ -1,10 +1,10 @@
-from FunsionG1 import FunsionG1
-from FunsionG2 import FunsionG2
-from FunsionG3 import FunsionG3
-from FunsionG4 import FunsionG4
-# from FunsionG5 import FunsionG5
-# from FunsionG6 import FunsionG6
-# from FunsionG7 import FunsionG7
+from FunsionG1 import *
+from FunsionG2 import *
+from FunsionG3 import *
+from FunsionG4 import *
+from FunsionG5 import *
+from FunsionG6 import *
+from FunsionG7 import *
 
 # Funsion1
 G1 = FunsionG1()
