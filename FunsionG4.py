@@ -13,3 +13,13 @@ class FunsionG4:
 
     # Estudiante 2:
     # Desarrollar una función que reciba una lista y retorne el valor mínimo.
+
+
+    def obtener_minimo(lista):
+        
+        if not lista:
+            return None
+            
+        return min(lista)
+
+
