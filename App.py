@@ -1,10 +1,10 @@
-from FunsionG1 import FunsionG1
-from FunsionG2 import FunsionG2
-from FunsionG3 import FunsionG3
-from FunsionG4 import FunsionG4
-# from FunsionG5 import FunsionG5
-# from FunsionG6 import FunsionG6
-# from FunsionG7 import FunsionG7
+from FunsionG1 import *
+from FunsionG2 import *
+from FunsionG3 import *
+from FunsionG4 import *
+from FunsionG5 import *
+from FunsionG6 import *
+from FunsionG7 import *
 
 # Funsion1
 G1 = FunsionG1()
@@ -32,3 +32,24 @@ G4 = FunsionG4()
 
 numeros = [10, 20, 30, 40]
 print(G4.contar_elementos(numeros))
+
+# Funsion 5
+
+G5 = FunsionG5()
+numeros = [10, 20, 30, 40]
+
+print(G5.valor_maximo(numeros))
+
+# Funsion 6
+
+G6 = FunsionG6()
+lista = [-5, 0, 3, -2, 8]
+
+print(G6.numeros_negativos(lista))
+
+
+# Funsion 7
+
+G7 = FunsionG7()
+
+print(G7.convertir_mayusculas("hola mundo"))

@@ -16,7 +16,7 @@ class FunsionG2:
     def __init__(self):
         pass
 
-    # Estudiante 1:
+    # Estudiante 1: [Jean Pitti 8-1005-171]
         # Desarrollar una función que reciba una lista de números y calcule la suma total.
 
     def sumTotal(self, x):
@@ -25,7 +25,7 @@ class FunsionG2:
             num = num + j
         return "la suma de los numeros es: " + str(num)
 
-    # Estudiante 2:
+    # Estudiante 2: [Yoseph Cortez 7-714-2261]  
         # Desarrollar una función que reciba una lista de números y calcule el promedio.
 
     def calcular_promedio(lista_numeros):
