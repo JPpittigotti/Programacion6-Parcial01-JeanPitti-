@@ -11,12 +11,10 @@ class FunsionG5:
         # Desarrollar una función que reciba un número y calcule su factorial.
 
     def calcular_factorial(numero):
-        # El factorial de 0 o 1 es siempre 1
         if numero == 0 or numero == 1:
             return 1
         
         resultado = 1
-        # Multiplicamos desde 2 hasta el número inclusive
         for i in range(2, numero + 1):
             resultado = resultado * i
             

@@ -11,9 +11,6 @@ class FunsionG4:
 
 
 
-
-    # Estudiante 2:Yoseph Cortez
-
     # Estudiante 2: [Yoseph Cortez 7-714-2261] 
 
     # Desarrollar una función que reciba una lista y retorne el valor mínimo.
